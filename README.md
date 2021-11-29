@@ -1,2 +1,3 @@
 # White-Wine-Analysis
 Analysis of factors influencing the quality of white wine
+Wine is getting more and more attention in people's leisure life. Wine culture is also becoming an integral part of every nation's culture. An emerging profession, "sommelier", is also gaining widespread attention. Therefore, this paper will try to investigate the influence of different features on wine quality based on a database of chemical substances and subjective evaluations of white wines. The research is based on "Background - Literature Review - Data Sourcing - Model Building - Analysis - Results - Conclusion", attempting to establish a valid connection through linear regression model, MLP neural network, and ridge regression model.
